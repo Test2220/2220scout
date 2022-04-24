@@ -6,8 +6,8 @@ The following versions are currently supported with security updates.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 0.0.1   | :x: |
+| Latest  | :x:                |
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, 
+To report a vulnerability, please contact someone.
